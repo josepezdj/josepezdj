@@ -8,7 +8,7 @@ Learning the main technologies that allow me to soon work as coder
 To be a Javascript Full Stack Developer
 
 - 💞️ I’m looking to collaborate on ...
-Whatever propject from whatever developer in order to keep learning
+Whatever project from whatever developer in order to keep learning
 
 - 📫 How to reach me ...
 josepezdj@hotmail.es
